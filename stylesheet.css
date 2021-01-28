@@ -1,0 +1,230 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    }
+    .logo{
+    padding-left: 30px;
+    padding-top: 5px;
+    }
+    .se{
+
+    }
+    .se a{
+
+        text-decoration: none;
+        color: black;
+    }
+     .se ul{
+       list-style: none;
+       display: flex;
+       padding-right: 30px;
+       padding-top: px;
+    }
+    .se li{
+        display: block;
+        padding-left: 20px;
+        text-align: center;
+    }
+    .se span{
+      padding-left: px;
+      color: #f2903a;
+    }
+    .sns{
+      padding-top: 300px;
+    position: fixed;
+    z-index: 99;
+    padding-left: px;
+    flex-direction: column;
+      align-items: center;
+      right:0;
+      padding-bottom: 60px;
+
+  }
+  .sns img{
+      display: flex;
+      padding-bottom: 15px;
+  }
+  .sns a{
+
+  }
+  .sns1-1{
+      transform: translateY(px);
+      padding-bottom: 10px;
+  }
+  .sns1-2{
+
+      transform: translateY(px);
+  }
+  .sns-box img{
+          margin-left: 10px;
+
+  }
+  .sns1-1:hover{
+      opacity: 0.8;
+  }
+  .sns1-2:hover{
+      opacity: 0.8;
+  }
+    .main{
+
+    }
+    .main-img{
+    background-image: url(https://peasmile2525.com/wp-content/themes/peasmile/assets/img/u_mv3.jpg);
+      min-height: 50vh;
+      background-size: cover;
+      background-position: center top;
+      background-repeat: no-repeat;
+      position: relative;
+    }
+    .main-me{
+      text-align: center;
+      transform: translateY(150px);
+    }
+    .main-me h2{
+  font-size: 32px;
+    }
+    .main-me span{
+      color: #f2903a;
+      font-size: 18px;
+    }
+    .main3-1{
+        padding-top: 40px;
+        padding-left: 50px;
+    }
+    .main3-1 a{
+     text-decoration: none;
+    color: black;
+    }
+    .main3-1 a:hover{
+      border-bottom:  2px solid #f2903a;
+    }
+    .main3-1 span{
+    color: #f2903a;
+    }
+    .main3{
+        display: flex;
+        padding-top: 50px;
+    }
+    .main3-box{
+        padding-left: 60px;
+    }
+    .main3-title{
+        text-align: center;
+    }
+    .main3-title h2{
+        font-size: 34px;
+    }
+    .main3-title span{
+        color: #f2903a;
+        font-size: 18px;
+    }
+    .main3-box h2{
+
+    }
+    .main3-box span{
+
+    }
+    .main3-img{
+    border-radius:10px 10px 0 0 ;
+    }
+    .main3-me{
+
+        border: 1px solid  rgb(233, 227, 227);
+        margin-right: 41px;
+        transform: translateY(-9px);
+        background-color: rgb(233, 227, 227);
+        border-radius: 0 0 10px 10px;
+    }
+    .main3-me span{
+        color: #f2903a;
+        font-size: 18px;
+        padding-left: 20px;
+    }
+    .main3-me p{
+      padding-left: 20px;
+
+    }
+    .bot2{
+     text-decoration: none;
+     display: flex;
+     padding-left: 80px;
+     margin-left: 80px;
+     border: 1px solid gray;
+     padding-right: 70px;
+     margin-right: 80px;
+     padding-bottom: 10px;
+     padding-top: 10px;
+     margin-bottom: 40px;
+     border-radius: 40px;
+     background-color: #fff;
+     color: black;
+    }
+    .bot2:hover{
+    opacity: 0.4;
+    }
+    .bot3{
+    padding-left: 170px;
+     margin-left: 550px;
+     display: flex;
+     text-decoration: none;
+     border: 3px solid crimson;
+     width: 99px;
+     padding-right: 150px;
+     margin-right: 570px;
+     color: #fff;
+     background-color: crimson;
+     padding-top: 30px;
+     padding-bottom: 25px;
+     border-radius: 20px;
+     margin-top: 70px;
+    }
+    .bot3 a{
+        text-decoration: none;
+        color: #fff;
+    }
+    .bot3:hover{
+        opacity: 0.4;
+    }
+    footer{
+        padding-top: 30px;
+        padding-bottom: 50px;
+
+        }
+        .logo-1{
+        padding-left: 30px;
+
+        }
+        .se-1{
+         padding-left: 340px;
+        }
+        .se-1 a{
+
+            text-decoration: none;
+            color: black;
+
+
+        }
+         .se-1 ul{
+           list-style: none;
+           display: flex;
+
+           padding-top: px;
+        }
+        .se-1 li{
+            display: block;
+            padding-left: 45px;
+            text-align: center;
+        }
+        .se-1 span{
+            color: #f2903a;
+        }
+        .display{
+            display: flex;
+
+        }
+        .p{
+         padding-left: 1000px;
+        }
+        .p p{
+            color: gray;
+        }
