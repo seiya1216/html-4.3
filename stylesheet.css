@@ -195,7 +195,7 @@ header{
 
         }
         .se-1{
-         padding-left: 340px;
+         transform: translateX(180px);
         }
         .se-1 a{
 
